@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+BMI Calculator is a Cross-platform application for Android and iOS for calculating BMI ,
+This multi-screen application features a great UI and easy to use Components.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# BMI_Calculator
->>>>>>> origin/main
+# The application
+    The front page:
+<img src="imaages/ss1.png" >
