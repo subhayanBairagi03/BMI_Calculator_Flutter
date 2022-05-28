@@ -7,6 +7,6 @@ Design is inspired from Dribbble.com
 
 # The application
     The front page:
-<img src="imaages/ss1.png" width = "300" height = "400" >
+<img src="imaages/frontpage1.png" width = "300" height = "400" >
     The Result page:
-<img src="imaages/ss2.png" width = "300" height = "400" >
+<img src="imaages/resultpage1.png" width = "300" height = "400" >
